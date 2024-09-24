@@ -76,19 +76,19 @@
     "url": "https://mn-marktplatz.de",
     "icon": "https://icons.duckduckgo.com/ip3/mn-marktplatz.de.ico",
     "slug": "marktplatz",
-    "status": "down",
-    "uptime": "91.78%",
-    "uptimeDay": "91.78%",
-    "uptimeWeek": "91.78%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "91.78%",
-    "time": 1546,
-    "timeDay": 1546,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
+    "status": "up",
+    "uptime": "89.99%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "89.99%",
+    "time": 3421,
+    "timeDay": 3421,
+    "timeWeek": 3421,
+    "timeMonth": 3421,
+    "timeYear": 3421,
     "dailyMinutesDown": {
-      "2024-09-24": 64
+      "2024-09-24": 80
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://mn-wiki.de",
     "icon": "https://icons.duckduckgo.com/ip3/mn-wiki.de.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "94.12%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
-    "time": 4681,
-    "timeDay": 4681,
-    "timeWeek": 4681,
-    "timeMonth": 4681,
-    "timeYear": 4681,
+    "status": "up",
+    "uptime": "92.21%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "92.21%",
+    "time": 4766,
+    "timeDay": 4766,
+    "timeWeek": 4766,
+    "timeMonth": 4766,
+    "timeYear": 4766,
     "dailyMinutesDown": {
-      "2024-09-24": 46
+      "2024-09-24": 62
     }
   }
 ]
