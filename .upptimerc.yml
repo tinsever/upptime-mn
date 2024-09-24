@@ -3,24 +3,23 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: FOREX-Börse
+    url: https://fin.mn-netz.de
+  - name: NETZ-API
+    url: https://api.mn-netz.de
+  - name: NETZ-Dashboard
+    url: https://dash.mn-netz.de
+  - name: Konferenz der Nationen
+    url: https://rdn.mn-netz.de
+  - name: Marktplatz
+    url: https://mn-marktplatz.de
+  - name: Wiki
+    url: https://mn-wiki.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.mn-netz.de
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
