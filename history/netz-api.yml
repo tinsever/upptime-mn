@@ -1,7 +1,7 @@
 url: https://api.mn-netz.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-19T22:48:28.693Z
+status: up
+code: 200
+responseTime: 1013
+lastUpdated: 2024-10-19T23:15:42.202Z
 startTime: 2024-09-24T09:55:18.185Z
 generator: Upptime <https://github.com/upptime/upptime>
